@@ -17,4 +17,4 @@ npm I
 npm run dev  
 localhost:3000  
   
-![1](https://github.com/user-attachments/assets/6d81b826-1df0-488e-9ea6-b3cd71d0e493)
+![1](https://github.com/user-attachments/assets/fa946fc3-803d-4705-9765-1418305943a3)
